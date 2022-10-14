@@ -6,7 +6,7 @@
 
 # Git and Github Session
 
-![Watch The Video](https://github.com/rait-acm/acm-github-practice/blob/main/images/coveree.png)
+![Watch The Video](https://github.com/rait-acm/acm-github-practice/blob/main/images/coveree1.jpeg)
 
 
 # ACM Practice Pull Requests
